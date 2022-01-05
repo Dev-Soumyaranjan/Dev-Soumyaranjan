@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dev-Soumyaranjan
+- 👋 Hi, I’m Soumyaranjan Rout
 - 👀 I’m interested in Java FullStack Development
 - 🌱 I’m currently learning Java and Web Technology
 - 💞️ I’m looking to collaborate on Eye catching project in which I can enhance my knowledge
