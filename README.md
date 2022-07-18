@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I ❤️ customization**
 
-- 💬 Ask me anything [here](https://github.com/Dev-Soumyaranjan/Dev-Soumyaranjan/discussions/1
+- 💬 Ask me anything [here](https://github.com/Dev-Soumyaranjan/Dev-Soumyaranjan/discussions/1)
 
 <h3 align="left">📤Connect with me:</h3>
 <p align="left">
