@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Soumyaranjan Rout</h1>
 <h3 align="center">Entering into Big Data Domain</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-soumyaranjan&label=Profile%20views&color=blueviolet&style=social" alt="dev-soumyaranjan" /> </p></br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-soumyaranjan&label=Profile%20views&color=blueviolet&style=social" alt="dev-soumyaranjan" /> <a href="https://wakatime.com/@6933e00d-ca48-449c-a795-2d6bc31e9db9"><img src="https://wakatime.com/badge/user/6933e00d-ca48-449c-a795-2d6bc31e9db9.svg" alt="Total time coded since Jul 18 2022" /></a></p></br>
   <h3 align="left">🎓About me</h3>
 
 - 🧑‍💼 Apprentice at [Mindtree](https://www.mindtree.com/)
@@ -33,4 +33,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-soumyaranjan&show_icons=true&locale=en&theme=outrun" alt="dev-soumyaranjan" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-soumyaranjan&theme=radical" alt="dev-soumyaranjan" /></p>
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-soumyaranjan&theme=shades-of-purple" alt="dev-soumyaranjan" /></p>-->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=dev_soumyaranjan&theme=jolly" /></p>
