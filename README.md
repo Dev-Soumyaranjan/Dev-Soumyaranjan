@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Soumyaranjan Rout</h1>
 <h3 align="center">Entering into Big Data Domain</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-soumyaranjan&label=Profile%20views&color=blueviolet&style=social" alt="dev-soumyaranjan" /> <a href="https://wakatime.com/@6933e00d-ca48-449c-a795-2d6bc31e9db9"><img src="https://wakatime.com/badge/user/6933e00d-ca48-449c-a795-2d6bc31e9db9.svg" alt="Total time coded since Jul 18 2022" /></a> <img src="https://img.shields.io/github/followers/dev-soumyaranjan?logo=github"></p></br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-soumyaranjan&label=Profile%20views&color=blueviolet&style=social" alt="dev-soumyaranjan" /> <a href="https://wakatime.com/@6933e00d-ca48-449c-a795-2d6bc31e9db9"><img src="https://wakatime.com/badge/user/6933e00d-ca48-449c-a795-2d6bc31e9db9.svg" alt="Total time coded since Jul 18 2022" /></a> <img src="https://img.shields.io/github/followers/dev-soumyaranjan?logo=github"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/dev-soumyaranjan"></p></br>
 
   <h3 align="left">🎓About me</h3>
 
