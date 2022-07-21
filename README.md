@@ -1,5 +1,5 @@
 <center>
-<img src="https://github.com/Dev-Soumyaranjan/Dev-Soumyaranjan/blob/main/Upload-Banner.jpg" />
+<img src="https://github.com/Dev-Soumyaranjan/Dev-Soumyaranjan/blob/main/Assets/Upload-Banner.jpg" />
 </center>
 
 <h1 align="center">Hi 👋, I'm Soumyaranjan Rout</h1>
