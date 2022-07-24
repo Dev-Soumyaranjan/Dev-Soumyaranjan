@@ -76,7 +76,7 @@ Uncomment it when there will be minimum four repos
 # Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
 <p align="left">
-<a href="https://linkedin.com/in/soumyaranjan rout" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumyaranjan rout" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/soumyaranjan-rout-b16145185/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumyaranjan rout" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17805662" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17805662" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dev-soumyaranjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dev-soumyaranjan" height="30" width="40" /></a>
 </p>
