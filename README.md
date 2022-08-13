@@ -34,7 +34,7 @@
 <p>
 <img src="https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Apache_Hive-FDEE21?style=for-the-badge&logo=apache-hivek&logoColor=black" />
+<img src="https://img.shields.io/badge/Apache_Hive-FDEE21?style=for-the-badge&logo=apache-hive&logoColor=black" />
 </p>
 
 ### Cloud☁️
@@ -46,6 +46,8 @@
 ### Database
 <p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=black" />
+<img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=black" />
 </p>
 
 ### Other
@@ -56,6 +58,8 @@
 <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=balck" /> 
 <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=black" /> 
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=black" /> 
+
 </p>
 
 
