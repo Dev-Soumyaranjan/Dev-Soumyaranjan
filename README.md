@@ -69,7 +69,7 @@
 </p>
 <p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-soumyaranjan&theme=outrun" alt="dev-soumyaranjan" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-soumyaranjan&theme=outrun" alt="dev-soumyaranjan" />
 
 </p>
 
