@@ -12,7 +12,7 @@
 
 </h1>
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dev-soumyaranjan" />
+<img src="https://github-profile-trophy.vercel.app/?username=dev-soumyaranjan&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=true">
 </p>
 <h3 align="center">Entering into Big Data Domain</h3>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> 
