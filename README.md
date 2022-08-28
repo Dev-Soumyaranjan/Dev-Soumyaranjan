@@ -1,12 +1,21 @@
 <center>
 <img src="https://github.com/Dev-Soumyaranjan/Dev-Soumyaranjan/blob/main/Assets/Upload-Banner.jpg" />
 </center>
+<p align="center">
+<img src="https://imagizer.imageshack.com/img924/6919/Nd3A5z.gif" /><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">
+</p>
 
-<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Soumyaranjan Rout</h1>
+<h1 align="center">
+
+
+<a href="https://imagizer.imageshack.com/img924/8871/XcBih8.gif"><img src="https://imagizer.imageshack.com/img924/8871/XcBih8.gif" />
+
+</h1>
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=dev-soumyaranjan" />
 </p>
 <h3 align="center">Entering into Big Data Domain</h3>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-soumyaranjan&label=Profile%20views&color=blueviolet&style=social" alt="dev-soumyaranjan" /> <a href="https://wakatime.com/@6933e00d-ca48-449c-a795-2d6bc31e9db9"><img src="https://wakatime.com/badge/user/6933e00d-ca48-449c-a795-2d6bc31e9db9.svg" alt="Total time coded since Jul 18 2022" /></a> <img src="https://img.shields.io/github/followers/dev-soumyaranjan?logo=github"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/dev-soumyaranjan"></p></br>
 
@@ -67,11 +76,13 @@
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=dev-soumyaranjan&show_icons=true&theme=algolia" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-soumyaranjan&theme=algolia" />
 </p>
-<p>
+<p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-soumyaranjan&theme=outrun" alt="dev-soumyaranjan" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-soumyaranjan&theme=outrun" alt="dev-soumyaranjan" />
 
 </p>
+
+[![Soumyaranjan's github activity graph](https://obscure-forest-98529.herokuapp.com/graph?username=dev-soumyaranjan&theme=synthwave-84)](https://github.com/dev-soumyaranjan/github-readme-activity-graph)
 
 <!--
 Uncomment it when there will be minimum four repos
