@@ -82,10 +82,11 @@
 
 </p>
 
-[![Soumyaranjan's github activity graph](https://obscure-forest-98529.herokuapp.com/graph?username=dev-soumyaranjan&theme=synthwave-84)](https://github.com/dev-soumyaranjan/github-readme-activity-graph)
+[![Soumyaranjan's github activity graph](https://activity-graph.herokuapp.com/graph?username=dev-soumyaranjan&theme=synthwave-84)](https://github.com/dev-soumyaranjan/github-readme-activity-graph)
 
 <!--
-Uncomment it when there will be minimum four repos
+Uncomment it when there will be minimum four repos 
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-soumyaranjan&repo=Java-Coding-Questions&show_owner=false&theme=cobalt)](https://github.com/Dev-Soumyaranjan/Java-Coding-Questions)
 -->
 # Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
