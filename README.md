@@ -81,10 +81,10 @@
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-soumyaranjan&theme=outrun" alt="dev-soumyaranjan" />
 
 </p>
-
+<!--
 [![Soumyaranjan's github activity graph](https://activity-graph.herokuapp.com/graph?username=dev-soumyaranjan&theme=synthwave-84)](https://github.com/dev-soumyaranjan/github-readme-activity-graph)
 
-<!--
+
 Uncomment it when there will be minimum four repos 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-soumyaranjan&repo=Java-Coding-Questions&show_owner=false&theme=cobalt)](https://github.com/Dev-Soumyaranjan/Java-Coding-Questions)
