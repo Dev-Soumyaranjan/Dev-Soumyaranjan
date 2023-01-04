@@ -72,14 +72,8 @@
 </p>
 
 
-<p>
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=dev-soumyaranjan&show_icons=true&theme=algolia" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-soumyaranjan&theme=algolia" />
-</p>
 <p align="center">
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-soumyaranjan&theme=outrun" alt="dev-soumyaranjan" />
-
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-soumyaranjan&theme=algolia" />
 </p>
 <!--
 [![Soumyaranjan's github activity graph](https://activity-graph.herokuapp.com/graph?username=dev-soumyaranjan&theme=synthwave-84)](https://github.com/dev-soumyaranjan/github-readme-activity-graph)
@@ -89,10 +83,4 @@ Uncomment it when there will be minimum four repos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-soumyaranjan&repo=Java-Coding-Questions&show_owner=false&theme=cobalt)](https://github.com/Dev-Soumyaranjan/Java-Coding-Questions)
 -->
-# Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
-<p align="left">
-<a href="https://www.linkedin.com/in/soumyaranjan-rout-b16145185/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumyaranjan rout" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17805662" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17805662" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dev-soumyaranjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dev-soumyaranjan" height="30" width="40" /></a>
-</p>
