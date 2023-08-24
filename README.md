@@ -48,7 +48,7 @@
 
 ### Cloud☁️
 <p>
-<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> 
+<img src="https://img.shields.io/badge/microsoft%20azure-%230089D6.svg?&style=for-the-badge&logo=azure%20artifacts&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" /> 
 </p>
 
