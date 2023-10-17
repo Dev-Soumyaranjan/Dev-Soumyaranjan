@@ -6,8 +6,9 @@
 </p>
 
 <h1 align="center">
-
-
+<!--
+ Another text Link = https://imagizer.imageshack.com/img923/9581/ayhpP9.gif
+-->
 <a href="https://imagizer.imageshack.com/img923/3831/0L1Zn8.gif"><img src="https://imagizer.imageshack.com/img923/3831/0L1Zn8.gif" />
 
 </h1>
