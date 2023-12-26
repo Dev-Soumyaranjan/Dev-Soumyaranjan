@@ -24,7 +24,7 @@
 
   <h3 align="left">🎓About me</h3>
 
-- 🧑‍💼 Apprentice at [Mindtree](https://www.mindtree.com/)
+- 🧑‍💼 Apprentice at [LTIMindtree](https://www.mindtree.com/)
 
 - 🌱 I’m currently learning **Big Data**
 
