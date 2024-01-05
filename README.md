@@ -77,6 +77,11 @@
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-soumyaranjan&theme=algolia" />
 </p>
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Dev-Soumyaranjan/Data-Engineering-Ascent,Dev-Soumyaranjan/Java-Coding-Questions,Dev-Soumyaranjan/Dev-Soumyaranjan&type=Date)](https://star-history.com/#Dev-Soumyaranjan/Data-Engineering-Ascent&Dev-Soumyaranjan/Java-Coding-Questions&Dev-Soumyaranjan/Dev-Soumyaranjan&Date)
+
 <!--
 [![Soumyaranjan's github activity graph](https://activity-graph.herokuapp.com/graph?username=dev-soumyaranjan&theme=synthwave-84)](https://github.com/dev-soumyaranjan/github-readme-activity-graph)
 
